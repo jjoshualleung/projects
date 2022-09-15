@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Joshua Leung
 #### Data Analyst Intern
-![Data Analyst Intern]
 
 I am a recent graduate in banking and finance at the University of London. I am currently studying data science and data analytics extension on at the University of California, Santa Cruz.
 
