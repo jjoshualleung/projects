@@ -1,11 +1,11 @@
-### Hi there 👋, My name is Joshua Leung
-#### Data Analyst Intern
+### Hi there 👋, 
+### My name is Joshua Leung
 
-I am a recent graduate in banking and finance at the University of London. I am studying data science and analytics at the University of California, Santa Cruz.
+I am a recent graduate in banking and finance at the University of London. 
 
-In addition, I was a data analyst intern in a telecommunications company. Analyzing larger, diverse, noisy data sets and modeling systems in the cellular networking and localization domains. Used Pandas, NumPy, Matplotlib, GeoPandas, Folium, and Contextily in Python to perform analysis.
+I am studying data science and analytics at the University of California, Santa Cruz.
 
-In this GitHub repository, I will share the analysis I did. Hope you enjoy it !!
+In this GitHub repository, I will share the analysis that I did. Hope you enjoy it !!
 
 Skills: Python | MySQL | Tableau | PySpark SQL |  
 
