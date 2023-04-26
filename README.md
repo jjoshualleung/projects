@@ -1,15 +1,8 @@
-### Hi there 👋, 
-### My name is Joshua Leung
+## Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self-learning, and hobby purposes. 
 
-I am a recent graduate in banking and finance at the University of London. 
+Presented in the form of Jupyter notebooks and Google Colab. Note: Data used in the projects is for demonstration purposes only.
 
-I am studying data science and analytics at the University of California, Santa Cruz.
+You can also connect with me on LinkedIn to learn more about my experience and skills as a data analyst: www.linkedin.com/in/jjoshualleung.
 
-In this GitHub repository, I will share the analysis that I did. Hope you enjoy it !!
-
-Skills: Python | MySQL | Tableau | PySpark SQL |  
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jjoshualleung)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jjoshualleung)  
-
+By showcasing my skills and experience in this portfolio, I hope to demonstrate my ability to solve complex problems, work with large datasets, and apply statistical methods and machine learning algorithms to extract insights and drive business value. Thank you for taking the time to explore my portfolio!
